@@ -157,7 +157,11 @@ plt.show()
 
 <img width="531" height="662" alt="image" src="https://github.com/user-attachments/assets/c92bd522-ae02-4675-b3cb-8ef749bcd483" />
 
+
+
 <img width="491" height="493" alt="image" src="https://github.com/user-attachments/assets/8ba8f2c5-e746-4525-bddf-7630c4428f2b" />
+
+
 
 <img width="520" height="473" alt="image" src="https://github.com/user-attachments/assets/6683b4aa-4f73-4e46-872d-6abdb52d18e3" />
 
